@@ -10,12 +10,12 @@ import CartItem from '../cart-item/cart-item.component';
 import './cart-dropdown.styles.scss';
 
 const CartDropdown = () => {
-	// const { setIsCartOpen } = useContext(CartContext);
+	const { setIsCartOpen } = useContext(CartContext);
 	const { cartItems } = useContext(CartContext);
 	const navigate = useNavigate();
-	// const onMouseLeaveHandler = () => {
-	// 	setIsCartOpen(false);
-	// };
+	const onMouseLeaveHandler = () => {
+		setIsCartOpen(false);
+	};
 
 	const goToCheckoutHandler = () => {
 		navigate('/checkout');
@@ -24,7 +24,7 @@ const CartDropdown = () => {
 	return (
 		<div
 			className='cart-dropdown-container'
-			// onMouseLeave={onMouseLeaveHandler}
+			onMouseLeave={onMouseLeaveHandler}
 		>
 			<div className='cart-items'>
 				{cartItems.map((item) => (
