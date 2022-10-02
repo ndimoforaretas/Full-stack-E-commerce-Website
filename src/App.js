@@ -25,11 +25,11 @@ const App = () => {
 					path='auth'
 					element={<Authentication />}
 				/>
+				<Route
+					path='checkout'
+					element={<Checkout />}
+				/>
 			</Route>
-			<Route
-				path='checkout'
-				element={<Checkout />}
-			/>
 		</Routes>
 	);
 };
