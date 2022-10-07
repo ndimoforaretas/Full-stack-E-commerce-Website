@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const BackgroundImage = styled.div`
 	width: 100%;
 	height: 100%;
+
 	background-size: cover;
 	background-position: center;
 	background-image: ${({ imageUrl }) => `url(${imageUrl})`};
@@ -16,6 +17,7 @@ export const Body = styled.div`
 	align-items: center;
 	justify-content: center;
 	border: 1px solid black;
+	border-radius: 10px;
 	background-color: white;
 	opacity: 0.7;
 	position: absolute;
@@ -42,6 +44,7 @@ export const DirectoryItemContainer = styled.div`
 	align-items: center;
 	justify-content: center;
 	border: 1px solid black;
+	border-radius: 15px;
 	margin: 0 7.5px 15px;
 	overflow: hidden;
 
