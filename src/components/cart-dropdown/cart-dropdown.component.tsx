@@ -1,3 +1,5 @@
+import { useCallback } from 'react';
+
 import { useDispatch, useSelector } from 'react-redux';
 
 import { useNavigate } from 'react-router-dom';
@@ -8,22 +10,21 @@ import CartItem from '../cart-item/cart-item.component';
 import { selectCartItems } from '../../store/cart/cart.selector';
 import { setIsCartOpen } from '../../store/cart/cart.action';
 
-import './cart-dropdown.styles.jsx';
 import {
 	CartDropdownContainer,
 	CartItems,
 	EmptyMessage,
-} from './cart-dropdown.styles.jsx';
+} from './cart-dropdown.styles';
 
 const CartDropdown = () => {
 	const dispatch = useDispatch();
 	const cartItems = useSelector(selectCartItems);
-
 	const navigate = useNavigate();
+
 	const onMouseLeaveHandler = () => dispatch(setIsCartOpen(false));
-	const goToCheckoutHandler = () => {
+	const goToCheckoutHandler = useCallback(() => {
 		navigate('/checkout');
-	};
+	}, []);
 
 	return (
 		<CartDropdownContainer onMouseLeave={onMouseLeaveHandler}>
