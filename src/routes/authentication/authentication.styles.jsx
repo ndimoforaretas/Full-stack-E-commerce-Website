@@ -10,7 +10,6 @@ export const AuthenticationContainer = styled.div`
 		flex-direction: column;
 		gap: 80px;
 		width: 90%;
-		padding: 20px;
 		align-items: center;
 	}
 `;
