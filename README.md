@@ -1,16 +1,45 @@
 <!-- TITLE -->
 
-# :rice: The Omnifood Project :fork_and_knife:
+# React Portfolio Project
 
 <!-- SHOT DESCRIPTION -->
 
-A sample vanilla HTML website for a fictitious AI based food delivery service.
-
-<br>
+A sample beginner portfolio website built with ReactJS.
 
 <!-- SCREENSHOT -->
 
-![ScreenShot](/img/omnifood-screenshot.png)
+### :key: Logging in:
+
+<br>
+
+![ScreenShot](/src/assets/img/modernshop-women.png)
+
+ <hr/>
+ 
+ 
+ ### :dancer::skin-tone-6: Women Category:
+
+<br>
+
+![ScreenShot](/src/assets/img/modernshop-signin.png)
+
+ <hr/>
+ 
+ 
+  ### :man_dancing::skin-tone-6: Men Category:
+
+<br>
+
+![ScreenShot](/src/assets/img/modernshop-men.png)
+
+ <hr/>
+ 
+ 
+ ### :credit_card: Logging in:
+
+<br>
+
+![ScreenShot](/src/assets/img/modernshop-stripe.png)
 
  <hr/>
 
@@ -22,6 +51,12 @@ A sample vanilla HTML website for a fictitious AI based food delivery service.
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
  <hr/>
 
@@ -30,10 +65,12 @@ A sample vanilla HTML website for a fictitious AI based food delivery service.
 ## :sunglasses: Project Features:
 
 - Fully responsive
+- Full-Stack
 
-- Specially designed input form
+- Google Authentication
 
-- Awesome UX/UI
+- ** :money_mouth_face: STRIPE PAYMENT!**. Feel free to use the card details
+  provided below: :point_down::skin-tone-6:
 
 <hr/>
 
@@ -41,7 +78,17 @@ A sample vanilla HTML website for a fictitious AI based food delivery service.
 
 ### :link: Project Link :arrow_upper_right::
 
-[See the Omnifood project in Action (hosted on netlify)😃](https://omnifood-ndimoforaretas.netlify.app/)
+[See the Modern Shop E-commerce App in Action! (hosted on netlify)😃](https://modernshop.netlify.app/)
+
+- :credit_card: Your Stripe Credentials;
+
+  1. Card Number; 4242 4242 4242 4242
+
+  2. Date: 04/34
+
+  3. CVC: 123
+
+  4. ZIP: 12345
 
  <hr/>
  
@@ -53,5 +100,8 @@ A sample vanilla HTML website for a fictitious AI based food delivery service.
 
 ### :bulb: This project is an initial concept of:
 
-- [**Jonas Schmedtmann**](https://github.com/jonasschmedtmann) => An amazing
-  Instructor! :100:
+- :heart:[** The Zero To Mastery Academy **](https://github.com/zero-to-mastery)
+  facilitated by [**Yihua Zhang**](https://github.com/ZhangMYihua) => An amazing
+  community dedicated to supporting you learn in-demand skills, get hired, and
+  advance your career.
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
