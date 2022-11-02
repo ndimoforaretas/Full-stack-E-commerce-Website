@@ -13,21 +13,21 @@ integrated with Stripe and Google Authentication.
 
 <br>
 
-![ScreenShot](/src/assets/img/modernshop-women.png)
-
- <hr/>
- 
- 
- ### :dancer::skin-tone-6: Women Category:
-
-<br>
-
 ![ScreenShot](/src/assets/img/modernshop-signin.png)
 
  <hr/>
  
  
-  ### :man_dancing::skin-tone-6: Men Category:
+ ### :dancer: Women Category:
+
+<br>
+
+![ScreenShot](/src/assets/img/modernshop-women.png)
+
+ <hr/>
+ 
+ 
+  ### :man_dancing: Men Category:
 
 <br>
 
@@ -36,7 +36,7 @@ integrated with Stripe and Google Authentication.
  <hr/>
  
  
- ### :credit_card: Logging in:
+ ### :credit_card: Shopping Cart:
 
 <br>
 
@@ -70,8 +70,9 @@ integrated with Stripe and Google Authentication.
 
 - Google Authentication
 
-- ** :money_mouth_face: STRIPE PAYMENT!**. Feel free to use the card details
-  provided below: :point_down::skin-tone-6:
+- :money_mouth_face: ** STRIPE PAYMENT!**.
+
+Feel free to use the card details provided below: :point_down:
 
 <hr/>
 
@@ -83,13 +84,13 @@ integrated with Stripe and Google Authentication.
 
 - :credit_card: Your Stripe Credentials;
 
-  1. Card Number; 4242 4242 4242 4242
+  1. **Card Number;** 4242 4242 4242 4242
 
-  2. Date: 04/34
+  2. **Date:** 04/34
 
-  3. CVC: 123
+  3. **CVC:** 123
 
-  4. ZIP: 12345
+  4. **ZIP:** 12345
 
  <hr/>
  
@@ -101,8 +102,9 @@ integrated with Stripe and Google Authentication.
 
 ### :bulb: This project is an initial concept of:
 
-- :heart:[** The Zero To Mastery Academy **](https://github.com/zero-to-mastery)
+- :heart:
+  [** The Zero To Mastery Academy **](https://github.com/zero-to-mastery)
   facilitated by [**Yihua Zhang**](https://github.com/ZhangMYihua) => An amazing
   community dedicated to supporting you learn in-demand skills, get hired, and
   advance your career.
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
