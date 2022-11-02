@@ -4,7 +4,8 @@
 
 <!-- SHOT DESCRIPTION -->
 
-A sample beginner portfolio website built with ReactJS.
+A full-stack E-commerce App built with ReactJS, TypeScript, Firebase, Redux Saga
+integrated with Stripe and Google Authentication.
 
 <!-- SCREENSHOT -->
 
