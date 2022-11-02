@@ -102,8 +102,7 @@ Feel free to use the card details provided below: :point_down:
 
 ### :bulb: This project is an initial concept of:
 
-- :heart:
-  [** The Zero To Mastery Academy **](https://github.com/zero-to-mastery)
+  **[The Zero To Mastery Academy](https://github.com/zero-to-mastery) (ZTM)**
   facilitated by [**Yihua Zhang**](https://github.com/ZhangMYihua) => An amazing
   community dedicated to supporting you learn in-demand skills, get hired, and
   advance your career.
