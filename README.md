@@ -70,7 +70,9 @@ integrated with Stripe and Google Authentication.
 
 - Google Authentication
 
-- :money_mouth_face: ** STRIPE PAYMENT!**.
+-  **STRIPE PAYMENT!**
+
+
 
 Feel free to use the card details provided below: :point_down:
 
